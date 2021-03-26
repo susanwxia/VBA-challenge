@@ -1,8 +1,12 @@
 # VBA-challenge
 Find out the performance of various stocks through years 2014 - 2016 for the purpose of further evaluation.
+
 In this challenge two Macros were created: StockTrend() and Formatter_GVal().
+
 StockTrend() aims to find out the yearly change, percentage change, and total stock volume for each stock in a particular year.
-Formatter_GVal() aims to conduct conditional formatting that highlights the positive/negative change in a specific color. Meanwhile, it performs a further evaluation on the stock data to find out the Greatest % increase, Greatest % decrease, and Greatest total volume in a particular year 
+
+Formatter_GVal() aims to conduct conditional formatting that highlights the positive/negative change in a specific color. Meanwhile, it performs a further evaluation on the stock data to find out the Greatest % increase, Greatest % decrease, and Greatest total volume in a particular year.
+
 The Data Analysis results are shown as below:
 
 Year 2014
